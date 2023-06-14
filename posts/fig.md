@@ -1,2 +1,2 @@
 # fig.md
-![myimg](img/img.png)
+![myimg](/img/img.png)
